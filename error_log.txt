@@ -1,0 +1,4 @@
+Error:Invalid ProductCode...
+Date and Time:19-11-2025
+Class and Method Line:   at My_Product_Inventory_App.Product_Operations.AddProduct(Product p) in C:\Users\HRISHIKA  SAH\OneDrive\Desktop\csharp\My_Project_Inventory_App\Product_Operations.cs:line 108
+Source:My_Project_Inventory_App
