@@ -148,6 +148,7 @@ namespace My_Project_Inventory_App
                     Console.WriteLine("\nPress [Enter] For Main Menu");
                     Console.ReadKey();
                     Console.ReadKey();
+                    Console.ReadKey();
                 }
 
             }

@@ -17,5 +17,6 @@ namespace My_Project_Inventory_App
         public ProductInventory_Exceptions(string message, Exception innerException) : base(message, innerException)
         {
         }
+        
     }
 }
